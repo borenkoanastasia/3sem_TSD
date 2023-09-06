@@ -1,0 +1,4 @@
+#ifndef STRUCT_OUTPUT_H
+#define STRUCT_OUTPUT_H
+
+#endif // STRUCT_OUTPUT_H

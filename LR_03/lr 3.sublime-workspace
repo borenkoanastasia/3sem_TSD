@@ -1,0 +1,1388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"output_",
+				"output_press_matrix\tabc"
+			],
+			[
+				"make_",
+				"make_type_of_input_choises\t(menu.c)"
+			],
+			[
+				"make",
+				"make_choise\t(menu.c)"
+			],
+			[
+				"tes",
+				"testing.h\t(testing.c)"
+			],
+			[
+				"free",
+				"free_press_matrix\t(main.c)"
+			],
+			[
+				"press",
+				"press_output_matrica\tabc"
+			],
+			[
+				"input_",
+				"input_two_norm_matrixes\tabc"
+			],
+			[
+				"get",
+				"pm_get_column"
+			],
+			[
+				"create",
+				"create_vector\t(norm_matrix.c)"
+			],
+			[
+				"nm_make",
+				"norm_make_rand_matrica\t(norm_matrix.h)"
+			],
+			[
+				"type",
+				"type_input\tabc"
+			],
+			[
+				"t",
+				"type\tabc"
+			],
+			[
+				"creat",
+				"create_norm_matrix\tabc"
+			],
+			[
+				"norm_ma",
+				"norm_matrix.h\t(press_matrix.c)"
+			],
+			[
+				"ALL",
+				"ALL_O\tabc"
+			],
+			[
+				"norm",
+				"norm_matrix.c\t(main.c)"
+			],
+			[
+				"outp",
+				"output_norm_matrix\tabc"
+			],
+			[
+				"output",
+				"output_press_matrica\t(create.c)"
+			],
+			[
+				"pm_",
+				"pm_press_nm_to_pm\t(press_matrix.c)"
+			],
+			[
+				"nm_multi",
+				"norm_multiply_vec_and_matrica\t(norm_matrix.h)"
+			],
+			[
+				"outpu",
+				"output_norm_matrix\tabc"
+			],
+			[
+				"input_t",
+				"input_two_matrixes\t(input.c)"
+			],
+			[
+				"ma",
+				"matrix\tabc"
+			],
+			[
+				"nm_c",
+				"norm_check_matrica\t(norm_matrix.c)"
+			],
+			[
+				"input",
+				"input_vector\tabc"
+			],
+			[
+				"input_vetor",
+				"input_vector_auto"
+			],
+			[
+				"cu",
+				"cur_j\tabc"
+			],
+			[
+				"input_el",
+				"input_el_count\tabc"
+			],
+			[
+				"ERROR_",
+				"ERROR_INPUT\t(common.h)"
+			],
+			[
+				"ja",
+				"ja_size\t(create.h)"
+			],
+			[
+				"nm_get",
+				"nm_get_el_matrix\t(norm_matrix.h)"
+			],
+			[
+				"nm_",
+				"nm_get_el_matrix\t(norm_matrix.c)"
+			],
+			[
+				"I",
+				"IT_VECTOR\t(common.h)"
+			],
+			[
+				"res",
+				"res_index\tabc"
+			],
+			[
+				"create_",
+				"create_press_matrix\tabc"
+			],
+			[
+				"pm_m",
+				"pm_multiply_row_and_column\tabc"
+			],
+			[
+				"el",
+				"elements\t(create.c)"
+			],
+			[
+				"column",
+				"column_size\tabc"
+			],
+			[
+				"MAX_",
+				"MAX_CHOISE_AMOUNT\t(main_menu.h)"
+			],
+			[
+				"ck_assert",
+				"ck_assert_double_lt\tabc"
+			],
+			[
+				"ele",
+				"elements\t(matrix.c)"
+			],
+			[
+				"ERR",
+				"ERR_MATRIX_WORK\tabc"
+			],
+			[
+				"free_",
+				"free_matrix\t(main.c)"
+			],
+			[
+				"AR",
+				"ERR_ARGS"
+			],
+			[
+				"press_",
+				"press_output_matrica\tabc"
+			],
+			[
+				"str",
+				"str_buf\tabc"
+			],
+			[
+				"max",
+				"max_digits_count\tabc"
+			],
+			[
+				"ja_",
+				"ja_head\t(common.h)"
+			],
+			[
+				"inpu",
+				"input_choice\tabc"
+			],
+			[
+				"testing",
+				"testing.h\t(menu.h)"
+			],
+			[
+				"out",
+				"output_error_message\t(menu.c)"
+			],
+			[
+				"MAX",
+				"MAX_CHOISE_NAME\t(menu.h)"
+			],
+			[
+				"me",
+				"menu\tabc"
+			],
+			[
+				"mul",
+				"multiplicate_press_vector_and_matrix\tabc"
+			],
+			[
+				"nor",
+				"norm_multiplicate_matrica_and_matrica\t(normal_matrica.c)"
+			],
+			[
+				"n",
+				"norm_output_matrica(*m\t(normal_matrica.c)"
+			],
+			[
+				"inc",
+				"include\t(menu.c)"
+			],
+			[
+				"input_ma",
+				"input_manually_or_random\tabc"
+			],
+			[
+				"CHO",
+				"CHOISE_NOT_EXIT\t(menu.h)"
+			],
+			[
+				"in",
+				"input_choice\tabc"
+			],
+			[
+				"co",
+				"compare_multiplication_press_and_usual\tabc"
+			],
+			[
+				"mu",
+				"multiplicate_press_vector_and_matrix\tabc"
+			],
+			[
+				"choise",
+				"choises_arr\tabc"
+			],
+			[
+				"COMPARE",
+				"COMPARE_BAD\tabc"
+			],
+			[
+				"O",
+				"O_ERR_MESS\tabc"
+			],
+			[
+				"MAIN",
+				"O_MAIN"
+			],
+			[
+				"O_FILE",
+				"O_FILTER\tabc"
+			],
+			[
+				"MA",
+				"O_MAIN"
+			],
+			[
+				"REA",
+				"REALESE_APP\tabc"
+			],
+			[
+				"I_",
+				"I_FILEWORK\tabc"
+			],
+			[
+				"S_FI",
+				"S_FILTER\tabc"
+			],
+			[
+				"chec",
+				"chernovick.c\tabc"
+			],
+			[
+				"e",
+				"error_message.c\tabc"
+			],
+			[
+				"file",
+				"filework.c\tabc"
+			],
+			[
+				"che",
+				"chernovick.c\tabc"
+			],
+			[
+				"FILE",
+				"FILEWORK_ERROR_READ\tabc"
+			],
+			[
+				"start",
+				"start_arr\tabc"
+			],
+			[
+				"ERR_M",
+				"ERR_MATRIX_WORK\t(matrix.c)"
+			],
+			[
+				"s",
+				"size\tabc"
+			],
+			[
+				"ro",
+				"row\tabc"
+			],
+			[
+				"elem",
+				"elements\tabc"
+			],
+			[
+				"ERR_",
+				"ERR_MATRIX_CREATE\tabc"
+			],
+			[
+				"com",
+				"composition_matrixes\t(matrix.h)"
+			],
+			[
+				"read",
+				"read_file_to_matrix\t(filework.h)"
+			],
+			[
+				"row",
+				"read_row_from_file\tabc"
+			],
+			[
+				"digi",
+				"make_digit_from_char"
+			],
+			[
+				"num",
+				"read_number_from_file"
+			],
+			[
+				"read_",
+				"read_file_to_matrix\t(filework.h)"
+			],
+			[
+				"multiplicate",
+				"multiplicate_row_and_column\tabc"
+			],
+			[
+				"retu",
+				"result\tabc"
+			],
+			[
+				"get_",
+				"get_row_by_i\tabc"
+			],
+			[
+				"matrix",
+				"matrix"
+			],
+			[
+				"ALL_",
+				"ALL_O"
+			],
+			[
+				"S_M",
+				"S_MAIN"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#include \"../inc/testing.h\"\n\nint test_norm_matrix_time(norm_matrix_t m1, norm_matrix_t m2)\n{\n    norm_matrix_t nm3;\n    int rc;\n\n    rc = create_norm_matrix(&nm3, m1.rows, m2.columns);\n    if(rc != OK)\n        return -1;\n\n    int start, end;\n    start = clock();\n\n    for (int i = 0; i < 100; i++)\n    {\n        norm_multiply_vec_and_matrica(m1, m2, &nm3);\n    }\n\n    end = clock();\n\n    free_norm_matrix(&nm3);\n    return end - start;\n}\n\nint test_press_matrix_time(press_matrix_t m1, press_matrix_t m2)\n{\n    press_matrix_t pm3;\n\n    create_press_matrix(&pm3, m2.a.size, m2.ja.size);\n    //printf(\"good start\\n\");\n    int start, end;\n\n    start = clock();\n    for (int i = 0; i < 100; i++)\n    {\n        pm_miltiply_row_and_matrix(m1, m2, &pm3);\n        //printf(\"good *\\n\");\n    }\n    end = clock();\n    //printf(\"good multiplicate\\n\");\n    free_press_matrix(&pm3);\n    //printf(\"good free\\n\");\n\n    return end - start;\n}\n/*\nvoid make_norm_matrix_zero(norm_matrix *m)\n{\n    for (int i = 0; i < m->rows; i++)\n    {\n        for (int j = 0; j < m->columns; j++)\n        {\n            norm_put_element_from_matrix_by_i_j(m, i, j, 0);\n        }\n    }\n}*/\n\nvoid big_testing()\n{\n    norm_matrix_t nm1, nm2;\n    press_matrix_t pm1, pm2;\n    int size_press, size_norm, time_press, time_norm;\n    int rc;\n\n    printf(\"Таблица с результатами тестирования\\n\");\n    printf(\"|%15s|%15s|%6s|%8s|%8s|\\n\", \"matrix type\", \"fill percent\", \"size\", \"time\",\n           \"memory\");\n\n    for (int i = 1; i < 11; i++)\n    {\n        //if (i == 4 || i == 6 || i == 7 || i == 8 || i == 9)\n        //    continue;\n\n        rc = create_norm_matrix(&nm1, 1, i*10);\n        if (rc != OK)\n        {\n            output_error_message(rc);\n            return;\n        }\n        rc = create_norm_matrix(&nm2, i*10, i*10);\n        if (rc != OK)\n        {\n            output_error_message(rc);\n            return;\n        }\n\n        for (int j = 0; j < 11; j++)\n        {\n            //if (j == 4 || j == 6 || j == 7 || j == 8 || j == 9)\n            //    continue;\n            \n\n            nm_make_matrix_zero(&nm1);\n            nm_make_matrix_zero(&nm2);\n            //printf(\"good start\\n\");\n            norm_make_rand_matrica(&nm1, j*10);\n            //printf(\"good create 1\\n\");\n            norm_make_rand_matrica(&nm2, j*10);\n            //printf(\"good create 2\\n\");\n            rc = pm_press_nm_to_pm(nm1, &pm1);\n            if (rc != OK)\n            {\n                output_error_message(rc);\n                return;\n            }\n            rc = pm_press_nm_to_pm(nm2, &pm2);\n            if (rc != OK)\n            {\n                output_error_message(rc);\n                return;\n            }\n\n            size_norm = (nm1.rows * nm1.columns * sizeof(int) + sizeof(norm_matrix_t)) * 3;\n            size_press = (nm1.rows * nm1.columns * j * 10 * sizeof(int) +\n                          nm1.columns * sizeof(int) + sizeof(norm_matrix_t)) * 3;\n            //printf(\"good size\\n\");\n\n            time_norm = test_norm_matrix_time(nm1, nm2);\n            //printf(\"good time 1\\n\");\n            time_press = test_press_matrix_time(pm1, pm2);\n            //printf(\"good time 2\\n\");\n            printf(\"|%15s|%15d|%6d|%8d|%8d|\\n\", \"norm\", j*10, i*10, time_norm, size_norm);\n            printf(\"|%15s|%15d|%6d|%8d|%8d|\\n\", \"press\", j*10, i*10, time_press, size_press);\n\n            free_press_matrix(&pm1);\n            free_press_matrix(&pm2);\n            //printf(\"J = %d\\n\", j);\n        }\n        //printf(\"end\\n\");\n        free_norm_matrix(&nm1);\n        //printf(\"end\\n\");\n        free_norm_matrix(&nm2);\n        //printf(\"end\\n\");\n    }\n    //printf(\"end\\n\");\n}\n",
+			"file": "src/testing.c",
+			"file_size": 3667,
+			"file_write_time": 132501821830200560,
+			"settings":
+			{
+				"buffer_size": 3634,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/press_matrica.c",
+			"settings":
+			{
+				"buffer_size": 6986,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/input.c",
+			"settings":
+			{
+				"buffer_size": 4745,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inc/create.h",
+			"settings":
+			{
+				"buffer_size": 514,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 395,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/output_error_message.c",
+			"settings":
+			{
+				"buffer_size": 733,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inc/norm_matrix.h",
+			"settings":
+			{
+				"buffer_size": 738,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/press_matrix.c",
+			"settings":
+			{
+				"buffer_size": 3880,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "include \"../inc/vector.h\"\n\nint create_vector(vector *vec, int size)\n{\n    vec->size = size;\n    vec->elements = calloc(vec->size, sizeof(int));\n    if (!vec->elements)\n    {\n        return ERROR_CREATE;\n    }\n    return OK;\n}\n\nvoid free_vector(vector *vec)\n{\n    free(vec->elements);\n}\n\nvoid output_vector(vector v)\n{\n    for (int i = 0; i < v.size; i++)\n    {\n        printf(\"%2d, \", *(v.elements + i));\n    }\n    printf(\"\\n\");\n}\n",
+			"file": "src/vector.c",
+			"file_size": 432,
+			"file_write_time": 132485978366507040,
+			"settings":
+			{
+				"buffer_size": 431,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/norm_matrix.c",
+			"settings":
+			{
+				"buffer_size": 3486,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inc/common.h",
+			"settings":
+			{
+				"buffer_size": 609,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/menu.c",
+			"settings":
+			{
+				"buffer_size": 3662,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main.c",
+			"settings":
+			{
+				"buffer_size": 1193,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inc/testing.h",
+			"settings":
+			{
+				"buffer_size": 170,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inc/menu.h",
+			"settings":
+			{
+				"buffer_size": 508,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inc/input.h",
+			"settings":
+			{
+				"buffer_size": 222,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control:  dele",
+				"Package Control: Disable Package"
+			],
+			[
+				"MarkdownVie",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Toggle",
+				"Toggle Comment"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"new view i",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"new wie",
+				"File: New View into File"
+			],
+			[
+				"nv",
+				"SublimeGDB: Open Variables View"
+			],
+			[
+				"package control:insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install Package ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Lint",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			],
+			[
+				"Pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/src"
+	],
+	"file_history":
+	[
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03 V2/inc/press_matrix.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03 V2/src/main.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03 V2/inc/common.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03 V2/inc/create.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03 V2/inc/input.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03 V2/inc/norm_matrix.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03 V2/src/press_matrix.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03 V2/src/input.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03 V2/src/create.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03 V2/src/norm_matrix.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03 V2/Makefile",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03 V2/src/menu.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03 V2/inc/main_menu.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03 V2/src/input_norm.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03 V2/src/main_menu.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_08_9_11/func_tests/readme.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_08_9_11/func_tests/file_11.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_08_9_11/func_tests/readme.md",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/pos_7_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/pos_6_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/pos_4_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/pos_5_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/pos_1_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/pos_2_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/neg_8_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/neg_7_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/neg_6_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/neg_5_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/neg_4_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/neg_3_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/neg_2_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/neg_1_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_10.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_04.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_pos_6_ans.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_09.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_08.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_pos_5_ans.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_pos_4_ans.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_06.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_05.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_pos_1_ans.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_pos_3_ans.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_pos_2_ans.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_02.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_01.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_pos_1_res.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_12.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_11.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_07.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_03.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_neg_1_ans.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/make_func_tests_files",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/inc/matrix.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/file_neg_3_in_2.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/pos_8_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/pos_3_args.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/res.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/readme.md",
+		"/home/nastya/.config/sublime-text-3/Packages/MarkdownEditing/README.md",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/2020-11-13.md",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/func_tests/HomePage.md",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_04/readme.txt",
+		"/home/nastya/.config/sublime-text-3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/src/testing.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/src/input.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/inc/normal_matrica.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/inc/press_matrica.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/src/list.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/src/press_matrica.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/src/output_error_message.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/inc/common.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/src/menu.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/Makefile",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/src/main.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/inc/input.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/inc/menu.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/src/testing.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/inc/choises.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/src/choises.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/inc/list.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/src/normal_matrica.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/LR_03_NEW_VERSION/inc/testing.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/src/press_matrica.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/src/normal_matrica.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/inc/input.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/src/choises.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/inc/testing.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_03/Makefile",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_07_2/help_sort/check_sort.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_07_2/Makefile",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_07_2/src/main.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_07_2/unit_tests/check_mysort.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_07_2/inc/sort.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_07_2/src/sort.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_07_2/src/filework.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_07_2/src/filter.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_07_2/unit_tests/check_key.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_07_2/help_sort/sort.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_07/src/compare.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_07/unit_tests/check_filework.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_07/inc/common.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_07/cproglr07.sublime-project",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_07/src/chernovick.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_07/src/error_message.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_07/inc/sort.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_07/inc/filework.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_07/inc/filter.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_07/src/main.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_07/src/filework.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_07/bad.make",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/Makefile",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/inc/common.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/readme.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/src/matrix.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/unit_tests/check_daniel.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/src/main.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/src/filework.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_08/inc/filework.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/lr8.sublime-project",
+		"/home/nastya/.config/sublime-text-3/Packages/User/Labs_build.sublime-build",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/Задания/lab_iu7_cprog_sem_2_lab_08.pdf",
+		"/home/nastya/Рабочий стол/My_files/Html/first_site/index.html",
+		"/home/nastya/Рабочий стол/My_files/Html/first_site.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"0",
+			"print",
+			"output_norm_matrix",
+			"\n\toutput_norm_matrix(*nm);",
+			"print",
+			"free",
+			"norm_matrix",
+			"input",
+			"_m"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/testing.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								838,
+								838
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 81.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/press_matrica.c",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/input.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4095.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "inc/create.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/output_error_message.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "inc/norm_matrix.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/press_matrix.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2900,
+								2900
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2197.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/vector.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/norm_matrix.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3463,
+								3463
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2142.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "inc/common.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/menu.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2537,
+								2537
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 304.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src/main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								411,
+								411
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 203.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "inc/testing.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "inc/menu.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "inc/input.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 83.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "lr 3.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src/matrix.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 695.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 528.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 441.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

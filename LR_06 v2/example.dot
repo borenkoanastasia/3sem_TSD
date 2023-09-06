@@ -1,0 +1,35 @@
+digraph Tree{
+	f5 -> awr4;
+	awr4 -> af3;
+	af3 -> aaa2;
+	aaa2 -> a1;
+	aaa2 -> ads1;
+	af3 -> asdad2;
+	asdad2 -> afs1;
+	asdad2 -> asdas1;
+	awr4 -> cva3;
+	cva3 -> c2;
+	0 [ label = "0", style = invis ];
+	c2 -> 0 [ style = invis ];
+	c2 -> cmn1;
+	cva3 -> d2;
+	d2 -> cxv1;
+	d2 -> dsa1;
+	f5 -> qwe4;
+	qwe4 -> gaz3;
+	gaz3 -> g2;
+	1 [ label = "1", style = invis ];
+	g2 -> 1 [ style = invis ];
+	g2 -> ga1;
+	gaz3 -> piu2;
+	piu2 -> hsz1;
+	piu2 -> qqw1;
+	qwe4 -> sada3;
+	sada3 -> req2;
+	2 [ label = "2", style = invis ];
+	req2 -> 2 [ style = invis ];
+	req2 -> s1;
+	sada3 -> zbz2;
+	zbz2 -> xzc1;
+	zbz2 -> zsc1;
+}

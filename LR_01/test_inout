@@ -1,0 +1,21 @@
+#!/bin/bash
+
+#set -x
+
+make inout_tests.exe
+
+echo
+echo
+
+for i in $(seq $1); do
+    ./inout_tests.exe < module_tests/input_output_module/neg_$i.txt
+    echo 
+done
+
+echo
+echo
+
+for i in $(seq $2); do
+    ./inout_tests.exe < module_tests/input_output_module/pos_$i.txt
+    echo
+done

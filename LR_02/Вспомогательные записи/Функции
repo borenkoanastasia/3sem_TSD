@@ -1,0 +1,114 @@
+Функции ТСД ЛР 2
+
+Модуль check_field
+// 
+int check_field_name(char *string);
+//
+int check_field_people_amount(long long unsigned int people_amount);
+//
+int check_field_capital(char *string);
+//
+int check_field_mainland(char *string);
+//
+int check_field_tourism_type(char *string);
+//
+int check_field_exursion_main_type(char *string);
+//
+int check_field_exursion_monument_count(long int count);
+//
+int check_field_sport_type(char *string);
+//
+int check_field_sport_min_price(long int price);
+//
+int check_field_beach_season(char *string);
+//
+int check_field_beach_temperature_air(int t);
+//
+int check_field_beach_temperature_water(int t);
+//
+int check_field_beach_time_travel(int t);
+
+//
+void get_variants_value_by_key(char key, char res_arr[MAX_AMOUNT_VARIANTS][MAX_STRING_FIELD_LEN],
+                               int *len)
+
+Модуль filework
+//                               
+int read_file_to_struct(char *filename, countries arr[MAX_STRUCT_COUNT], int *len);
+//
+int read_line(FILE *file, countries *line);
+//
+int read_exursion_struct(FILE *file, excursion *line);
+//
+int read_beach_struct(FILE *file, beach_front *line);
+//
+int read_sport_struct(FILE *file, sport *line);
+//
+int read_field_char(FILE *file, char field[MAX_STRING_FIELD_LEN]);
+
+Модуль filework
+//
+void filework_output_error_messages(int rc);
+
+Модуль key_array_output
+//
+void key_array_output_table(char key_arr[MAX_STRUCT_COUNT][MAX_STRING_FIELD_LEN],
+                            countries struct_arr[MAX_STRUCT_COUNT], int len);
+//
+int search_struct_by_key(countries struct_arr[MAX_STRUCT_COUNT],
+                          char key[MAX_STRING_FIELD_LEN], int len);
+  
+Модуль key_array_work       
+//                  
+int key_array_sort(char arr[MAX_STRUCT_COUNT][MAX_STRUCT_COUNT], int len);
+//
+void swap(char arr[MAX_STRUCT_COUNT][MAX_STRUCT_COUNT], int start, int end);
+//
+int partition(char arr[MAX_STRUCT_COUNT][MAX_STRUCT_COUNT], int first_border, int last_border);
+//
+void key_array_quick_sort(char arr[MAX_STRUCT_COUNT][MAX_STRUCT_COUNT], int first_border, int last_border);
+//
+void make_key_array_from_struct_array(char key_arr[MAX_STRUCT_COUNT][MAX_STRING_FIELD_LEN],
+                                     countries struct_arr[MAX_STRUCT_COUNT], int len);
+
+Модуль output
+//
+void output_start_message();
+//
+void output_menu_message();
+
+Модуль struct_array_output
+//
+void output_countries_type(countries line);
+//
+void output_table(countries result[MAX_STRUCT_COUNT], int len);
+//
+void output_description(char tourism_type[MAX_STRING_FIELD_LEN], type_tourism description);
+//
+void output_excursion_tourism_type_line(excursion line);
+//
+void output_beach_front_tourism_type_line(beach_front line);
+//
+void output_sport_tourism_type_line(sport line);
+//
+void make_hours_from_minutes(int minutes, int *res_minutes, int *hours);
+//
+void output_title();
+
+Модуль struct_array_sort
+//
+int sort(countries arr[MAX_STRUCT_COUNT], int len);
+//
+void swap(countries arr[MAX_STRUCT_COUNT], int start, int end);
+//
+int partition(countries arr[MAX_STRUCT_COUNT], int first_border, int last_border);
+//
+void quick_sort(countries arr[MAX_STRUCT_COUNT], int first_border, int last_border);
+//
+int add_struct(countries arr[MAX_STRUCT_COUNT], int *len, countries add_element);
+//
+void clear_string(char *string, int len);
+//
+void clear_contries(countries *elem);
+//
+int del_struct(countries arr[MAX_STRUCT_COUNT], int *len, int num_del_element);

@@ -1,0 +1,3 @@
+dot example.dot | gvpr -c -ftree.gv | neato -n -Tpng -o binarytee.png
+dot -Tpng example.dot -oexample1.png
+

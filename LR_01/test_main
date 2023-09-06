@@ -1,0 +1,23 @@
+#!/bin/bash
+
+#set -x
+
+#make main.exe
+
+echo
+echo
+
+for i in $(seq $1); do
+    echo test $i
+    ./main_debug.exe < func_tests/neg_$i.txt
+    echo 
+done
+
+echo
+echo
+
+for i in $(seq $2); do
+    echo test $i
+    ./main_debug.exe < func_tests/pos_$i.txt
+    echo
+done

@@ -1,0 +1,51 @@
+Russia	144500000	Moscow	Eurasia	excursion	nature	5826
+China	1393000000	Beijing	Eurasia	excursion	art	5091
+Germany	83020000	Berlin	Eurasia	excursion	history	2519
+Austria	8859000	Vienna	Eurasia	sport	alpine ski	19618
+France	66990000	Paris	Eurasia	sport	climbing	9822
+Portugal	10280000	Lisbone	Eurasia	sport	surfing	66813
+Turkey	82000000	Ankara	Eurasia	beach	spring	35	39	399
+India	1300000000	New Delhi	Eurasia	beach	summer	36	21	51
+Greece	10720000	Athens	Eurasia	beach	autumn	30	32	448
+Italy	60360000	Rome	Eurasia	beach	winter	43	30	1341
+Australia	24990000	Canberra	Australia	excursion	nature	8327
+Indonesia	267700000	Jakarta	Island	excursion	nature	6840
+South Korea	51640000	Seoul	Island	excursion	art	2343
+Greate Britain	66650000	London	Island	excursion	history	2375
+Japan	126500000	Tokyo	Island	sport	alpine ski	98405
+New Guinea	7275300	Conakry	Island	sport	climbing	2530
+Guatemala	17250000	Guatemala	Island	sport	surfing	15962
+Taiwan	23780000	Taipei	Island	beach	spring	35	38	1063
+Filippines	106700000	Manila	Island	beach	summer	35	22	52
+New Zeland	4886000	Wellington	Island	beach	autumn	34	40	311
+Fiji	883483	Suva	Island	beach	winter	22	22	170
+South Africa Republic	57780000	Pretoria	Africa	excursion	nature	3558
+Zimbabwe	14440000	Harare	Africa	excursion	art	3474
+Niger	22440000	Niamey	Africa	excursion	history	778
+Kenya	51390000	Nairobi	Africa	sport	alpine ski	97396
+Ethiopia	109200000	Addis Ababa	Africa	sport	climbing	79909
+Nambia	2448000	Windhoek	Africa	sport	surfing	53537
+Egypt	98420000	Cairo	Africa	beach	spring	28	43	511
+Sudan	41800000	Kharoum	Africa	beach	summer	28	28	733
+Somalia	15010000	Mogadishu	Africa	beach	autumn	43	46	102
+Botswana	2254000	Gaborone	Africa	beach	winter	34	32	1158
+Tobago	1390000	Port of Spain	North America	excursion	nature	7468
+Grenada	111454	Saint George	North America	excursion	art	4819
+Dominica	71625	Roseau	North America	excursion	history	9712
+Canada	37590000	Ottawa	North America	sport	alpine ski	26257
+USA	328200000	Washington	North America	sport	climbing	81927
+Haiti	11120000	Port-Au-Prince	North America	sport	surfing	80267
+Bagamas	385640	Nassau	North America	beach	spring	35	48	460
+Cuba	11340000	Hawana	North America	beach	summer	49	33	538
+Mexico	126200000	Mexico	North America	beach	autumn	25	29	614
+Jamaica	2935000	Kingston	North America	beach	winter	38	45	531
+Brasil	209500000	Brasilia	South America	excursion	nature	9806
+Columbia	49650000	Bogota	South America	excursion	art	4492
+Paraguay	6956000	Asuncion	South America	excursion	history	3625
+Argentina	44490000	Buenos Aires	South America	sport	alpine ski	9371
+Chile	18730000	Santiago	South America	sport	climbing	46106
+Peru	31990000	Lima	South America	sport	surfing	43658
+Venezuela	28870000	Caracas	South America	beach	spring	48	23	749
+Uruguay	3449000	Montevideo	South America	beach	summer	35	30	1231
+Ecuador	17080000	Quito	South America	beach	autumn	29	36	359
+Suriname	575991	Paramaribo	South America	beach	winter	44	45	242

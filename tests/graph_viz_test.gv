@@ -1,0 +1,5 @@
+digraph C{
+	"asd"->"ass";
+	"asd"->"ls";
+	"ls"->"ass";
+}

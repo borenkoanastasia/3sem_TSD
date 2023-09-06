@@ -1,0 +1,14 @@
+#!/bin/bash
+
+make app.exe
+./app.exe
+RET=$?
+dot -Tpng main_graph.dot -o main_graph.png
+echo -en "\n"
+for i in $(seq 1 $RET); do
+	#echo dot -Tpng $i"_graph.dot" -o$i"_graph.png"
+	dot -Tpng $i"_graph.dot" -o$i"_graph.png"
+	echo $i"_graph.dot" конвертирован в png
+done
+echo -en "\n"
+echo Завершение работы программы
